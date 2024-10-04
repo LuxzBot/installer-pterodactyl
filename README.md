@@ -18,4 +18,4 @@
 |   Hack Back Panel |   ✅   |
 |   Exit |   ✅   |
 
-bash <(curl https://raw.githubusercontent.com/Farisofc/panel/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/LuxzBot/installer-pterodactyl/main/install.sh)
